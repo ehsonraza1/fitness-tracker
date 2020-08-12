@@ -58,5 +58,4 @@ app.get("/api/workouts/range", ({ body }, res) => {
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
 });
-// Create Workout workout.create
-//
+//TODO Create Routes and match it up with API.js
