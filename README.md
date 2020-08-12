@@ -25,7 +25,9 @@ The app is designed to allow consumer to reach their fitness goals. As a user of
 To install necessary dependencies, run the following command:
 
 ```
-npm install npm run seed node server.js
+npm install
+npm run seed
+node server.js
 ```
 
 ## Usage
@@ -50,4 +52,4 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at ehson.raza1@outlook.com. You can find more of my work at [ehson.raza1](https://github.com/ehson.raza1/).
+If you have any questions about the repo, open an issue or contact me directly at ehson.raza1@outlook.com. You can find more of my work at [ehsonraza1](https://github.com/ehsonraza1/).
