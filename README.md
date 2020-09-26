@@ -1,10 +1,22 @@
 # Fitness Tracker -NoSQL
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-brightgreen)
+![Website Up](https://img.shields.io/badge/Website-Up-red)
 
 ## Description
 
-The app is designed to allow consumer to reach their fitness goals. As a user of this app- one should be able to track the name, type, weight, sets, reps, and duration of exercise. This allows the user to customize their workout plan and fitness journey
+The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+
+Offline Functionality:
+
+- Enter deposits offline
+
+- Enter expenses offline
+
+When brought back online:
+
+- Offline entries should be added to tracker.
 
 ## Table of Contents
 
